@@ -2,7 +2,7 @@ use {
     serde::{Deserialize, Serialize}
 };
 
-use crate::miners::Miner;
+use crate::miner::Miner;
 
 
 // MARK: - JSON Payload (Rest)

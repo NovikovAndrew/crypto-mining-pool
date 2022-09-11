@@ -23,7 +23,8 @@ pub struct NewMinerRequest {
     pub nickname: String
 }
 
-// MARK: - DAO (Data Access Object)
+
+// MARK: - DAO
 
 #[derive(Debug)]
 pub struct MinerDAO {
